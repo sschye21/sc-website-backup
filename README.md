@@ -1,5 +1,7 @@
 # Steven Chye's Website
 
+![Website image](/src/assets/Steven-Chye-website.png)
+
 Tech Stack used:
 - React.js
 - Three.js
